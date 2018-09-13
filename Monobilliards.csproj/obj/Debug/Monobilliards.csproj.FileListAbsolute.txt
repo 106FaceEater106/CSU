@@ -1,0 +1,14 @@
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\Monobilliards.exe.config
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\Monobilliards.exe
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\Monobilliards.pdb
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\mscorlib.dll
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\nunit.framework.dll
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\normidna.nlp
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\normnfc.nlp
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\normnfd.nlp
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\normnfkc.nlp
+C:\Users\SASHOK\CSU\Monobilliards.csproj\bin\Debug\normnfkd.nlp
+C:\Users\SASHOK\CSU\Monobilliards.csproj\obj\Debug\Monobilliards.csprojResolveAssemblyReference.cache
+C:\Users\SASHOK\CSU\Monobilliards.csproj\obj\Debug\Monobilliards.exe
+C:\Users\SASHOK\CSU\Monobilliards.csproj\obj\Debug\Monobilliards.pdb

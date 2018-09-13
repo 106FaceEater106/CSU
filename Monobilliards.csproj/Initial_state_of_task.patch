@@ -1,0 +1,15 @@
+Index: Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/riderModule.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/riderModule.iml	(date 1536832658000)
++++ Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/riderModule.iml	(date 1536823912232)
+@@ -2,6 +2,7 @@
+ <module type="RIDER_MODULE" version="4">
+   <component name="NewModuleRootManager">
+     <content url="file:///app" />
++    <content url="file:///df351657" />
+     <content url="file://$USER_HOME$/.Rider2018.2/system/extResources" />
+     <content url="file://$MODULE_DIR$/../.." />
+     <orderEntry type="sourceFolder" forTests="false" />

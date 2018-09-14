@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8104edf-663b-435d-a9d5-b950fd56ae9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Clones.csproj/.idea/.idea.Clones.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Clones.csproj/.idea/.idea.Clones.csproj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Monobilliards.csproj/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Monobilliards.csproj/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Monobilliards.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Monobilliards.csproj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Monobilliards.csproj/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Monobilliards.csproj/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Monobilliards.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Monobilliards.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Monobilliards.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Monobilliards.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/Monobilliards.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/Monobilliards.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Monobilliards.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Monobilliards.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Monobilliards.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Monobilliards.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,21 +21,23 @@
     <session id="-551468483">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.49" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -48,19 +56,34 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Monobilliards.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="676">
-              <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+            <state relative-caret-position="459">
+              <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
               <folding>
-                <marker date="1536841053350" expanded="true" signature="6:70" ph="..." />
+                <marker date="1536841053350" expanded="false" signature="6:70" ph="..." />
                 <marker date="1536841053350" expanded="true" signature="97:642" ph="{...}" />
                 <marker date="1536841053350" expanded="true" signature="146:639" ph="{...}" />
                 <marker date="1536841053350" expanded="true" signature="202:635" ph="{...}" />
                 <marker date="1536841053350" expanded="true" signature="303:334" ph="{...}" />
                 <marker date="1536841053350" expanded="true" signature="387:611" ph="{...}" />
                 <marker date="1536841053350" expanded="true" signature="499:605" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="18" column="94" selection-start-line="18" selection-start-column="94" selection-end-line="18" selection-end-column="94" />
+              <folding>
+                <marker date="1536838058662" expanded="false" signature="6:132" ph="..." />
+                <marker date="1536838058662" expanded="true" signature="157:557" ph="{...}" />
+                <marker date="1536838058662" expanded="true" signature="174:555" ph="{...}" />
+                <marker date="1536838058662" expanded="true" signature="198:552" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -101,6 +124,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -113,7 +137,6 @@
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -167,6 +190,8 @@
       <workItem from="1536832550613" duration="355000" />
       <workItem from="1536823899672" duration="263000" />
       <workItem from="1536825184505" duration="5041000" />
+      <workItem from="1536848977034" duration="10000" />
+      <workItem from="1536849072976" duration="1222000" />
     </task>
     <task id="LOCAL-00001" summary="Initial state of task">
       <created>1536832658720</created>
@@ -186,7 +211,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5659000" />
+    <option name="totallyTimeSpent" value="6891000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -200,10 +225,9 @@
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="2568" height="1408" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10771065" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10930048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.3299611" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3299611" />
@@ -218,6 +242,7 @@
       <window_info anchor="bottom" id="Unit Tests" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
       <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.3299611" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -249,31 +274,31 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="18" column="202" lean-forward="true" selection-start-line="18" selection-start-column="202" selection-end-line="18" selection-end-column="202" />
-          <folding>
-            <marker date="1536838058662" expanded="true" signature="6:132" ph="..." />
-            <marker date="1536838058662" expanded="true" signature="157:557" ph="{...}" />
-            <marker date="1536838058662" expanded="true" signature="174:555" ph="{...}" />
-            <marker date="1536838058662" expanded="true" signature="198:552" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Monobilliards.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" column="34" lean-forward="true" selection-start-line="26" selection-start-column="34" selection-end-line="26" selection-end-column="34" />
+        <state relative-caret-position="459">
+          <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
           <folding>
-            <marker date="1536841053350" expanded="true" signature="6:70" ph="..." />
+            <marker date="1536841053350" expanded="false" signature="6:70" ph="..." />
             <marker date="1536841053350" expanded="true" signature="97:642" ph="{...}" />
             <marker date="1536841053350" expanded="true" signature="146:639" ph="{...}" />
             <marker date="1536841053350" expanded="true" signature="202:635" ph="{...}" />
             <marker date="1536841053350" expanded="true" signature="303:334" ph="{...}" />
             <marker date="1536841053350" expanded="true" signature="387:611" ph="{...}" />
             <marker date="1536841053350" expanded="true" signature="499:605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="94" selection-start-line="18" selection-start-column="94" selection-end-line="18" selection-end-column="94" />
+          <folding>
+            <marker date="1536838058662" expanded="false" signature="6:132" ph="..." />
+            <marker date="1536838058662" expanded="true" signature="157:557" ph="{...}" />
+            <marker date="1536838058662" expanded="true" signature="174:555" ph="{...}" />
+            <marker date="1536838058662" expanded="true" signature="198:552" ph="{...}" />
           </folding>
         </state>
       </provider>

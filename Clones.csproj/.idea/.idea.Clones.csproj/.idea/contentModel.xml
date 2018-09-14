@@ -3,6 +3,7 @@
   <component name="ContentModelStore">
     <e p="\app" t="IncludeRecursive" />
     <e p="\d4d76b6a" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\config\extensions" t="IncludeRecursive" />
     <e p="C:\Users\SASHOK\.Rider2018.2\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\SASHOK\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_Clones.1439141367.00" t="ExcludeRecursive" />
     <e p="C:\Users\SASHOK\CSU\Clones.csproj" t="IncludeRecursive">

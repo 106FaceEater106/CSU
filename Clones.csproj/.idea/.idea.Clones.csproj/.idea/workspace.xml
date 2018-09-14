@@ -2,13 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="79984ac3-f56d-4a34-8288-f9af8ea91a2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CloneVersionSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CloneVersionSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICloneVersionSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ICloneVersionSystem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/Monobilliards.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/Monobilliards.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/bin/Debug/Monobilliards.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/bin/Debug/Monobilliards.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/bin/Debug/Monobilliards.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/bin/Debug/Monobilliards.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/obj/Debug/Monobilliards.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/obj/Debug/Monobilliards.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/obj/Debug/Monobilliards.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/obj/Debug/Monobilliards.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +25,10 @@
     <session id="-839176253">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -34,66 +41,61 @@
           <entry key="C#" value="3" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="102" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="102" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-              <folding>
-                <marker date="1536841073156" expanded="false" signature="6:32" ph="..." />
-                <marker date="1536841073156" expanded="true" signature="50:443" ph="{...}" />
-                <marker date="1536841073156" expanded="true" signature="67:441" ph="{...}" />
-                <marker date="1536841073156" expanded="true" signature="104:438" ph="{...}" />
-                <marker date="1536841073156" expanded="true" signature="259:434" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CloneVersionSystem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="13" column="166" lean-forward="true" selection-start-line="13" selection-start-column="166" selection-end-line="13" selection-end-column="166" />
+            <state relative-caret-position="180">
+              <caret line="9" column="8" selection-end-line="131" selection-end-column="1" />
               <folding>
-                <marker date="1536841073121" expanded="true" signature="6:47" ph="..." />
-                <marker date="1536841073121" expanded="true" signature="65:192" ph="{...}" />
-                <marker date="1536841073121" expanded="true" signature="122:190" ph="{...}" />
-                <marker date="1536841073121" expanded="true" signature="163:187" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CloneVersionSystem_should.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <folding>
-                <marker date="1536841073130" expanded="false" signature="6:75" ph="..." />
-                <marker date="1536841073130" expanded="true" signature="93:2061" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="150:2059" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="184:285" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="327:445" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="497:630" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="677:805" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="842:943" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="982:1094" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="1150:1304" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="1363:1504" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="1544:1771" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="1828:2056" ph="{...}" />
-                <marker date="1536841073130" expanded="true" signature="1939:2033" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="6:47" ph="..." />
+                <marker date="1536918728511" expanded="true" signature="65:3593" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="125:1326" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="229:547" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="616:1320" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="691:1283" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="1362:2103" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="1506:1729" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="1776:1832" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="1862:1963" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="2000:2097" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="2126:3591" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="2279:2413" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="2453:2706" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="2507:2641" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="2738:2997" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="2775:2938" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="3037:3287" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="3074:3191" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="3326:3585" ph="{...}" />
+                <marker date="1536918728511" expanded="true" signature="3363:3526" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>using System\;\nusing System\.Collections\;\nusing System\.Collections\.Generic\;\n \nnamespace Clones\n\{\n    public class CloneVersionSystem \: ICloneVersionSystem\n    \{\n        static List\&lt;Clone\&gt; clones \= new List\&lt;Clone\&gt;\(\) \{ new Clone\(\) \}\;\n \n        class Clone\n        \{\n            List\&lt;string\&gt; programs\;\n            List\&lt;string\&gt; undos\;\n            int number\;\n \n            internal Clone\(\)\n            \{\n                programs \= new List\&lt;string\&gt;\(\)\;\n                programs\.Add\(\&quot;basic\&quot;\)\;\n                undos \= new List\&lt;string\&gt;\(\)\;\n                number \= 1\;\n            \}\n \n            private Clone\(int num\)\n            \{\n                for \(int i \= 0\; i \&lt; clones\.Count\; i\+\+\)\n                \{\n                    if \(clones\[i\]\.number \=\= num\)\n                    \{\n                        programs \= new List\&lt;string\&gt;\(\)\;\n                        for \(int j \= 0\; j \&lt; clones\[i\]\.programs\.Count\; j\+\+\)\n                        \{\n                            programs\.Add\(clones\[i\]\.programs\[j\]\)\;\n                        \}\n \n                        undos \= new List\&lt;string\&gt;\(\)\;\n                        for \(int j \= 0\; j \&lt; clones\[i\]\.undos\.Count\; j\+\+\)\n                        \{\n                            undos\.Add\(clones\[i\]\.undos\[j\]\)\;\n                        \}\n \n                        number \= clones\.Count \+ 1\;\n                        break\;\n                    \}\n                \}\n            \}\n \n            internal void Learn\(string pi\)\n            \{\n                programs\.Add\(pi\)\;\n                while \(undos\.Count \&gt; 0\)\n                \{\n                    undos\.RemoveAt\(undos\.Count \- 1\)\;\n                \}\n            \}\n \n            internal void Rollback\(\)\n            \{\n                var prg \= programs\[programs\.Count \- 1\]\;\n                if \(prg \!\= \&quot;basic\&quot;\)\n                \{\n                    undos\.Add\(prg\)\;\n                    programs\.RemoveAt\(programs\.Count \- 1\)\;\n                \}\n            \}\n \n            internal void Relearn\(\)\n            \{\n                if \(undos\.Count \&gt; 0\)\n                \{\n                    programs\.Add\(undos\[undos\.Count \- 1\]\)\;\n                    undos\.RemoveAt\(undos\.Count \- 1\)\;\n                \}\n            \}\n \n            internal void Clonefy\(\)\n            \{\n                Clone clone \= new Clone\(number\)\;\n                clones\.Add\(clone\)\;\n            \}\n \n            internal string Check\(\)\n            \{\n                return programs\[programs\.Count \- 1\]\;\n            \}\n        \}\n \n        public string Execute\(string query\)\n        \{\n            string\[\] tokens \= query\.Split\(\' \'\)\;\n            int numClone \= int\.Parse\(tokens\[1\]\) \- 1\;\n            switch \(tokens\[0\]\)\n            \{\n                case \&quot;learn\&quot;\:\n                    clones\[numClone\]\.Learn\(tokens\[2\]\)\;\n                    break\;\n                case \&quot;rollback\&quot;\:\n                    clones\[numClone\]\.Rollback\(\)\;\n                    break\;\n                case \&quot;relearn\&quot;\:\n                    clones\[numClone\]\.Relearn\(\)\;\n                    break\;\n                case \&quot;clone\&quot;\:\n                    clones\[numClone\]\.Clonefy\(\)\;\n                    break\;\n                case \&quot;check\&quot;\:\n                    return clones\[numClone\]\.Check\(\)\;\n            \}\n \n            return null\;\n        \}\n    \}\n\}</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -103,13 +105,20 @@
     <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/CloneVersionSystem_should.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CloneVersionSystem.cs" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="580" />
     <option name="y" value="200" />
     <option name="width" value="1400" />
@@ -121,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -128,17 +138,22 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Clones" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Clones" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="do_not_show_solution_notification" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -183,12 +198,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536841450452</updated>
-      <workItem from="1536841451564" duration="1498000" />
+      <workItem from="1536841451564" duration="1919000" />
+      <workItem from="1536914377510" duration="4349000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1498000" />
+    <option name="totallyTimeSpent" value="6268000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -203,16 +219,9 @@
     <frame x="-4" y="-4" width="2568" height="1408" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1363275" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13712242" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -220,18 +229,25 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.3299611" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -249,15 +265,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
+        <state relative-caret-position="374">
           <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <marker date="1536841073156" expanded="false" signature="6:32" ph="..." />
-            <marker date="1536841073156" expanded="true" signature="50:443" ph="{...}" />
-            <marker date="1536841073156" expanded="true" signature="67:441" ph="{...}" />
-            <marker date="1536841073156" expanded="true" signature="104:438" ph="{...}" />
-            <marker date="1536841073156" expanded="true" signature="259:434" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -266,7 +275,6 @@
         <state>
           <folding>
             <marker date="1536841073130" expanded="false" signature="6:75" ph="..." />
-            <marker date="1536841073130" expanded="true" signature="93:2061" ph="{...}" />
             <marker date="1536841073130" expanded="true" signature="150:2059" ph="{...}" />
             <marker date="1536841073130" expanded="true" signature="184:285" ph="{...}" />
             <marker date="1536841073130" expanded="true" signature="327:445" ph="{...}" />
@@ -285,13 +293,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CloneVersionSystem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="166" lean-forward="true" selection-start-line="13" selection-start-column="166" selection-end-line="13" selection-end-column="166" />
+        <state relative-caret-position="180">
+          <caret line="9" column="8" selection-end-line="131" selection-end-column="1" />
           <folding>
-            <marker date="1536841073121" expanded="true" signature="6:47" ph="..." />
-            <marker date="1536841073121" expanded="true" signature="65:192" ph="{...}" />
-            <marker date="1536841073121" expanded="true" signature="122:190" ph="{...}" />
-            <marker date="1536841073121" expanded="true" signature="163:187" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="6:47" ph="..." />
+            <marker date="1536918728511" expanded="true" signature="65:3593" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="125:1326" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="229:547" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="616:1320" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="691:1283" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="1362:2103" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="1506:1729" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="1776:1832" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="1862:1963" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="2000:2097" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="2126:3591" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="2279:2413" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="2453:2706" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="2507:2641" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="2738:2997" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="2775:2938" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="3037:3287" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="3074:3191" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="3326:3585" ph="{...}" />
+            <marker date="1536918728511" expanded="true" signature="3363:3526" ph="{...}" />
           </folding>
         </state>
       </provider>

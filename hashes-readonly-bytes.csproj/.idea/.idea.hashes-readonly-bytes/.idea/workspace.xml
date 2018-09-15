@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1524e4c8-d36b-4b6d-82a2-245ba50a9100" name="Default Changelist" comment="" />
+    <list default="true" id="bc8ff940-5a2b-49a5-9b27-70f0d5f37f23" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../yield-return-smooth.csproj/.idea/.idea.yield-return-smooth.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/.idea/.idea.yield-return-smooth.csproj/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,56 +11,73 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="176892506">
+    <session id="-681649357">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.58" value="1" />
-          <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="4" />
+          <entry key="cs" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="4" />
+          <entry key="C#" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="237" />
+          <entry key="cs" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="237" />
+          <entry key="C#" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ReadonlyBytes.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="792">
+              <caret line="33" column="179" lean-forward="true" selection-start-line="33" selection-start-column="179" selection-end-line="33" selection-end-column="179" />
+              <folding>
+                <marker date="1537003920114" expanded="true" signature="6:66" ph="..." />
+                <marker date="1537003920114" expanded="true" signature="84:2159" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="138:2157" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="368:535" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="595:702" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="752:836" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="923:979" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="1028:1620" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="1381:1572" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="1669:1944" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="1987:2036" ph="{...}" />
+                <marker date="1537003920114" expanded="true" signature="2079:2151" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ExpSmoothingTask.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MovingAverageTask.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/MovingMaxTask.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ReadonlyBytes.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ExpSmoothingTask.cs" />
-        <option value="$PROJECT_DIR$/MovingAverageTask.cs" />
-        <option value="$PROJECT_DIR$/MovingMaxTask.cs" />
+        <option value="$PROJECT_DIR$/ReadonlyBytes.cs" />
       </list>
     </option>
   </component>
@@ -75,7 +94,7 @@
     <option name="height" value="1000" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -87,7 +106,7 @@
           <expand>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="yield-return-smooth" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="hashes-readonly-bytes" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -100,7 +119,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hashes-readonly-bytes.csproj/hashes-readonly-bytes.csproj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -140,19 +159,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1524e4c8-d36b-4b6d-82a2-245ba50a9100" name="Default Changelist" comment="" />
-      <created>1536921260449</created>
+      <changelist id="bc8ff940-5a2b-49a5-9b27-70f0d5f37f23" name="Default Changelist" comment="" />
+      <created>1537002685018</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1536921260449</updated>
-      <workItem from="1536921261525" duration="8602000" />
-      <workItem from="1536930728786" duration="2500000" />
-      <workItem from="1536996986451" duration="995000" />
+      <updated>1537002685018</updated>
+      <workItem from="1537002686192" duration="1719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12097000" />
+    <option name="totallyTimeSpent" value="1719000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -166,9 +183,16 @@
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="2568" height="1408" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14507154" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11645469" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -176,25 +200,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Unit Tests Coverage" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -210,38 +227,23 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ExpSmoothingTask.cs">
+    <entry file="file://$PROJECT_DIR$/ReadonlyBytes.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MovingMaxTask.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="792">
+          <caret line="33" column="179" lean-forward="true" selection-start-line="33" selection-start-column="179" selection-end-line="33" selection-end-column="179" />
           <folding>
-            <marker date="1536932614344" expanded="true" signature="51:795" ph="{...}" />
-            <marker date="1536932614344" expanded="true" signature="88:793" ph="{...}" />
-            <marker date="1536932614344" expanded="true" signature="191:790" ph="{...}" />
-            <marker date="1536932614344" expanded="true" signature="311:786" ph="{...}" />
-            <marker date="1536932614344" expanded="true" signature="435:501" ph="{...}" />
-            <marker date="1536932614344" expanded="true" signature="573:637" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/MovingAverageTask.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="36" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-          <folding>
-            <marker date="1536928923903" expanded="true" signature="50:1352" ph="{...}" />
-            <marker date="1536928923903" expanded="true" signature="94:1350" ph="{...}" />
-            <marker date="1536928923903" expanded="true" signature="210:938" ph="{...}" />
-            <marker date="1536928923903" expanded="true" signature="378:928" ph="{...}" />
-            <marker date="1536928923903" expanded="true" signature="1114:1344" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="6:66" ph="..." />
+            <marker date="1537003920114" expanded="true" signature="84:2159" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="138:2157" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="368:535" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="595:702" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="752:836" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="923:979" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="1028:1620" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="1381:1572" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="1669:1944" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="1987:2036" ph="{...}" />
+            <marker date="1537003920114" expanded="true" signature="2079:2151" ph="{...}" />
           </folding>
         </state>
       </provider>

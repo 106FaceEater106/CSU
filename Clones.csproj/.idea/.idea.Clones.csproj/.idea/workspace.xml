@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79984ac3-f56d-4a34-8288-f9af8ea91a2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/contentModel.xml" afterDir="false" />
+    <list default="true" id="79984ac3-f56d-4a34-8288-f9af8ea91a2e" name="Default Changelist" comment="Второе задание">
+      <change afterPath="$PROJECT_DIR$/Clones.csproj.DotSettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/App.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/DataPoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/DataSource.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/ExpSmoothingTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/ExpSmoothingTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/Factory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/IDataAnalyzer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/MovingAverageTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/MovingAverageTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/MovingMaxTask.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/MovingMaxTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/ZedGraph.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/nunit.framework.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../yield-return-smooth.csproj/yield-return-smooth.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Clones.csproj/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CloneVersionSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CloneVersionSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ICloneVersionSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ICloneVersionSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/.idea/.idea.Monobilliards.csproj/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/bin/Debug/Monobilliards.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/bin/Debug/Monobilliards.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/bin/Debug/Monobilliards.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/bin/Debug/Monobilliards.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/obj/Debug/Monobilliards.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/obj/Debug/Monobilliards.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Monobilliards.csproj/obj/Debug/Monobilliards.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Monobilliards.csproj/obj/Debug/Monobilliards.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +30,7 @@
     <session id="-839176253">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.48" value="1" />
           <entry key="project.opened" value="2" />
@@ -44,11 +49,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cs" value="102" />
+          <entry key="txt" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="C#" value="102" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
@@ -58,30 +65,30 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CloneVersionSystem.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="9" column="8" selection-end-line="131" selection-end-column="1" />
+            <state relative-caret-position="780">
+              <caret line="39" column="111" lean-forward="true" selection-start-line="39" selection-start-column="111" selection-end-line="39" selection-end-column="111" />
               <folding>
-                <marker date="1536918728511" expanded="true" signature="6:47" ph="..." />
-                <marker date="1536918728511" expanded="true" signature="65:3593" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="125:1326" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="229:547" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="616:1320" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="691:1283" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="1362:2103" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="1506:1729" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="1776:1832" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="1862:1963" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="2000:2097" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="2126:3591" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="2279:2413" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="2453:2706" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="2507:2641" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="2738:2997" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="2775:2938" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="3037:3287" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="3074:3191" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="3326:3585" ph="{...}" />
-                <marker date="1536918728511" expanded="true" signature="3363:3526" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="6:47" ph="..." />
+                <marker date="1536918845417" expanded="true" signature="65:3589" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="125:1326" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="229:547" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="616:1320" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="691:1283" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="1362:2103" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="1506:1729" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="1776:1832" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="1862:1963" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="2000:2097" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="2126:3587" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="2279:2413" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="2453:2706" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="2507:2641" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="2738:2997" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="2775:2938" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="3035:3283" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="3072:3189" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="3322:3581" ph="{...}" />
+                <marker date="1536918845417" expanded="true" signature="3359:3522" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -154,6 +161,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="do_not_show_solution_notification" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../yield-return-smooth.csproj" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -199,12 +207,20 @@
       <option name="presentableId" value="Default" />
       <updated>1536841450452</updated>
       <workItem from="1536841451564" duration="1919000" />
-      <workItem from="1536914377510" duration="4349000" />
+      <workItem from="1536914377510" duration="5190000" />
     </task>
+    <task id="LOCAL-00001" summary="Второе задание">
+      <created>1536918943845</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1536918943845</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6268000" />
+    <option name="totallyTimeSpent" value="7109000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -252,6 +268,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Второе задание" />
+    <option name="LAST_COMMIT_MESSAGE" value="Второе задание" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -293,30 +313,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CloneVersionSystem.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="8" selection-end-line="131" selection-end-column="1" />
+        <state relative-caret-position="780">
+          <caret line="39" column="111" lean-forward="true" selection-start-line="39" selection-start-column="111" selection-end-line="39" selection-end-column="111" />
           <folding>
-            <marker date="1536918728511" expanded="true" signature="6:47" ph="..." />
-            <marker date="1536918728511" expanded="true" signature="65:3593" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="125:1326" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="229:547" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="616:1320" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="691:1283" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="1362:2103" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="1506:1729" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="1776:1832" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="1862:1963" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="2000:2097" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="2126:3591" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="2279:2413" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="2453:2706" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="2507:2641" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="2738:2997" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="2775:2938" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="3037:3287" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="3074:3191" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="3326:3585" ph="{...}" />
-            <marker date="1536918728511" expanded="true" signature="3363:3526" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="6:47" ph="..." />
+            <marker date="1536918845417" expanded="true" signature="65:3589" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="125:1326" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="229:547" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="616:1320" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="691:1283" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="1362:2103" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="1506:1729" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="1776:1832" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="1862:1963" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="2000:2097" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="2126:3587" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="2279:2413" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="2453:2706" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="2507:2641" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="2738:2997" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="2775:2938" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="3035:3283" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="3072:3189" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="3322:3581" ph="{...}" />
+            <marker date="1536918845417" expanded="true" signature="3359:3522" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\app" t="IncludeRecursive" />
+    <e p="\eeae3641" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_hashes-ghosts.-1434534092.00" t="ExcludeRecursive" />
+    <e p="C:\Users\SASHOK\CSU\hashes-ghosts.csproj" t="IncludeRecursive">
+      <e p="Animal.cs" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Cat.cs" t="Include" />
+      <e p="Document.cs" t="Include" />
+      <e p="GhostsTask.cs" t="Include" />
+      <e p="GhostsTest.cs" t="Include" />
+      <e p="hashes-ghosts.csproj" t="IncludeRecursive" />
+      <e p="IFactory.cs" t="Include" />
+      <e p="nunitlite.dll" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Robot.cs" t="Include" />
+      <e p="Segment.cs" t="Include" />
+      <e p="Vector.cs" t="Include" />
+    </e>
+  </component>
+</project>

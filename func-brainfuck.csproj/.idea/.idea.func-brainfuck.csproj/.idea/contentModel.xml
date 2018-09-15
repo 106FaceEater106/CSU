@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\1186cbdc" t="IncludeRecursive" />
+    <e p="\app" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_func-brainfuck.-809017015.00" t="ExcludeRecursive" />
+    <e p="C:\Users\SASHOK\CSU\func-brainfuck.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Brainfuck.cs" t="Include" />
+      <e p="BrainfuckBasicCommands.cs" t="Include" />
+      <e p="BrainfuckBasicCommandsTests.cs" t="Include" />
+      <e p="BrainfuckLoopCommands.cs" t="Include" />
+      <e p="BrainfuckLoopCommandsTests.cs" t="Include" />
+      <e p="func-brainfuck.csproj" t="IncludeRecursive" />
+      <e p="IVirtualMachine.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="VirtualMachine.cs" t="Include" />
+      <e p="VirtualMachineTests.cs" t="Include" />
+    </e>
+  </component>
+</project>

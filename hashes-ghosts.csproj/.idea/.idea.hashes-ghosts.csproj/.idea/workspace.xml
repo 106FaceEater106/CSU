@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb3bc9b7-e8c1-4ad6-9ce7-36da19c85d00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../hashes-readonly-bytes.csproj/.idea/.idea.hashes-readonly-bytes.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hashes-readonly-bytes.csproj/.idea/.idea.hashes-readonly-bytes.csproj/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hashes-readonly-bytes.csproj.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,6 +14,7 @@
     <session id="-1312880532">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -173,6 +174,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../func-brainfuck.csproj" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,12 +218,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537013115251</updated>
-      <workItem from="1537013116303" duration="2327000" />
+      <workItem from="1537013116303" duration="2926000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2327000" />
+    <option name="totallyTimeSpent" value="2926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

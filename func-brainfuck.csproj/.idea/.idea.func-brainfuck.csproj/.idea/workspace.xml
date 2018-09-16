@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="81ca003f-3a10-40e2-81de-b6e4a93e59ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.func-brainfuck.csproj/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.func-brainfuck.csproj/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.func-brainfuck.csproj/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.func-brainfuck.csproj/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.func-brainfuck.csproj/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.func-brainfuck.csproj/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/App.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brainfuck.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BrainfuckBasicCommands.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BrainfuckBasicCommandsTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BrainfuckLoopCommands.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BrainfuckLoopCommandsTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/IVirtualMachine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Properties/AssemblyInfo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualMachine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VirtualMachineTests.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func-brainfuck.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/func-brainfuck.csproj.DotSettings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunit.framework.dll" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nunitlite.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hashes-ghosts.csproj/.idea/.idea.hashes-ghosts.csproj/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hashes-ghosts.csproj/.idea/.idea.hashes-ghosts.csproj/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hashes-readonly-bytes.csproj.zip" beforeDir="false" />
-    </list>
+    <list default="true" id="81ca003f-3a10-40e2-81de-b6e4a93e59ea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +12,7 @@
     <session id="-320885773">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -63,23 +40,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BrainfuckLoopCommands.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="26" column="91" lean-forward="true" selection-start-line="26" selection-start-column="91" selection-end-line="26" selection-end-column="91" />
-              <folding>
-                <marker date="1537024416107" expanded="true" signature="59:1156" ph="{...}" />
-                <marker date="1537024416107" expanded="true" signature="59:1164" ph="{...}" />
-                <marker date="1537024416107" expanded="true" signature="152:321" ph="{...}" />
-                <marker date="1537024416107" expanded="true" signature="932:1155" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -104,7 +65,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="580" />
     <option name="y" value="200" />
     <option name="width" value="1400" />
@@ -134,6 +95,7 @@
   <component name="PropertiesComponent">
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../func-rocket.csproj" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -177,12 +139,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537016781211</updated>
-      <workItem from="1537016782265" duration="5391000" />
+      <workItem from="1537016782265" duration="5800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5391000" />
+    <option name="totallyTimeSpent" value="5800000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -194,8 +156,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="-4" width="2568" height="1408" extended-state="7" />
-    <editor active="true" />
+    <frame x="-4" y="-4" width="2568" height="1408" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12241653" />

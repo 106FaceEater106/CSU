@@ -1,6 +1,6 @@
 ﻿namespace Dungeon
 {
-	public enum MoveDirection
+	public enum GoWay
 	{
 		Up,
 		Down,

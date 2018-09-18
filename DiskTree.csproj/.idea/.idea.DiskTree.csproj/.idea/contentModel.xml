@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="\app" t="IncludeRecursive" />
+    <e p="\ceb21265" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\SASHOK\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_DiskTree.1891245522.00" t="ExcludeRecursive" />
+    <e p="C:\Users\SASHOK\CSU\DiskTree.csproj" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DiskTree.csproj" t="IncludeRecursive" />
+      <e p="DiskTreeTask.cs" t="Include" />
+      <e p="DiskTreeTask_should.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
